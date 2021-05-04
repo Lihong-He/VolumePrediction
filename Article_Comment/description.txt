@@ -1,0 +1,1 @@
+Each file gives the article url, id of first 10 comments, and comment volume collected from that outlet.

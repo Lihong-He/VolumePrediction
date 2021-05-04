@@ -11,18 +11,22 @@ To run the code, the following environment is required:
 * scikit-learn>=0.19.0
 
 # Run the experiment for volume prediction. 
-Calculate the R^2 and MAE with different feature groups and ML algorithms.
-Feature groups: all features, comment features, article features, rate.
-ML algorithms: Random Forest, SVM, MLP, Linear Regression.
 ``
 python volumePrediction.py
 ``
 
+Calculate the R^2 and MAE with different feature groups and ML algorithms.
+Feature groups: all features, comment features, article features, rate.
+ML algorithms: Random Forest, SVM, MLP, Linear Regression.
+
+
 # Analyze rate models.
-Show the Slope and Intercept of the rate model in each dataset.
 ``
 python rateAnalysis.py
 ``
+
+Show the Slope and Intercept of the rate model in each dataset.
+
 
 # Dataset
 Collect articles and comments from 6 news outlets: Daily Mail, Fox News, the Guardian, New York Times, Wall Street Journal, and Washington Post.

@@ -31,6 +31,7 @@ Show the Slope and Intercept of the rate model in each dataset.
 # Dataset
 Collect articles and comments from 6 news outlets: Daily Mail, Fox News, the Guardian, New York Times, Wall Street Journal, and Washington Post.
 
+Dataset to run the experiments: DailyMail-1.csv, Fox-1.csv, Guardian-1.csv, NYTimes-1.csv, WSJ-1.csv, WSP-1.csv.
+
 Folder Article_Comment gives the article url, id of first 10 comments, and comment volume from each outlet.
 
-Dataset to run the experiments: DailyMail-1.csv, Fox-1.csv, Guardian-1.csv, NYTimes-1.csv, WSJ-1.csv, WSP-1.csv.

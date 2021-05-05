@@ -12,7 +12,7 @@ We show that the relationship between the early rate and the final number of com
 
 VolumePrediction contains code and datasets for our ICWSM 2021 publication:
 
-[**Cannot Predict Comment Volume of a News Article before (a few) Users Read It**] (https://arxiv.org/abs/2008.06414)
+[**Cannot Predict Comment Volume of a News Article before (a few) Users Read It**](https://arxiv.org/abs/2008.06414)
 
 To run the code, the following environment is required:
 * numpy>=1.13.1

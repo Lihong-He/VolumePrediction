@@ -25,7 +25,9 @@ python volumePrediction.py
 ``
 
 Calculate the R^2 and MAE with different feature groups and ML algorithms.
+
 Feature groups: all features, comment features, article features, rate.
+
 ML algorithms: Random Forest, SVM, MLP, Linear Regression.
 
 

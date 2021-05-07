@@ -44,3 +44,8 @@ Dataset to run the experiments: DailyMail-1.csv, Fox-1.csv, Guardian-1.csv, NYTi
 
 Folder Article_Comment gives the article url, id of first 10 comments, and comment volume from each outlet.
 
+# Feature Generation
+Features used to predict the comment volume include: meta info about the article (e.g., month, day, hour), named entities extracted from article content, sentiment scores of the  article content and comments content, dynamics of the first 10 comments, the conversation structure, etc.
+
+Feature generation is implemented by java functions in file FeatureMatrix.java.
+
